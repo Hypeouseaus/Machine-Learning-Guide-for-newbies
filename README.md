@@ -5,9 +5,9 @@
 
 ### https://www.coursera.org/learn/machine-learning
 
- Free tutorial course provided by Dr. Andrew Ng, Co-founder of Coursera.
+  Free tutorial course provided by Dr. Andrew Ng, Co-founder of Coursera.
 
- If you end this course, You can now code OCR by yourself.
+  If you end this course, You can now code OCR by yourself.
 
 
 ### http://cs231n.stanford.edu/
