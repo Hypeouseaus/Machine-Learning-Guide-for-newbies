@@ -15,7 +15,7 @@
     https://medium.com/towards-data-science/the-mathematics-of-machine-learning-894f046c568
       A list of basic mathematics required for ML
 
-    >Others
+    Others
       https://karpathy.github.io/neuralnets/
       https://github.com/rasbt/python-machine-learning-book
       https://swalloow.github.io/pyml-intro1
