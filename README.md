@@ -1,7 +1,7 @@
 # Machine-Learning-Guide-for-newbies
 
 ## How can I start?
-     https://www.coursera.org/learn/machine-learning
+    (https://www.coursera.org/learn/machine-learning)
       Free tutorial course provided by Dr. Andrew Ng, Co-founder of Coursera.
       If you end this course, You can now code OCR by yourself.
 
