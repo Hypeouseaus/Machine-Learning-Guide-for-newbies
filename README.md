@@ -1,8 +1,6 @@
 # Machine-Learning-Guide-for-newbies
-===========
 
-How can I start?
------------
+##How can I start?
     ><https://www.coursera.org/learn/machine-learning>
       >Free tutorial course provided by Dr. Andrew Ng, Co-founder of Coursera.
       >If you end this course, You can now code OCR by yourself.
@@ -22,12 +20,11 @@ How can I start?
       ><https://github.com/rasbt/python-machine-learning-book>
       ><https://swalloow.github.io/pyml-intro1>
 
-Recommended Website
+##Recommended Website
 
-----------
     ><https://www.reddit.com/r/MachineLearning/comments/6jgdva/d_machine_learning_wayr_what_are_you_reading_week/>
     ><https://www.reddit.com/r/MachineLearning/>
     >Yes, It's Reddit. But It has many helpful articles though.
 
 
-Do you have more? Share it!
+##Do you have more? Share it!
