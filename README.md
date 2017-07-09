@@ -2,7 +2,7 @@
 
 ## How can I start?
 
-### 
+### 1
 
 https://www.coursera.org/learn/machine-learning
 
@@ -10,7 +10,7 @@ Free tutorial course provided by Dr. Andrew Ng, Co-founder of Coursera.
 
 If you end this course, You can now code OCR by yourself.
 
-### 
+### 2
 
 http://cs231n.stanford.edu/
 
@@ -18,21 +18,19 @@ https://archive.org/details/cs231n-CNNs
 
 Free lecture provided by University of Stanford.
 
-### 
+### 3
 
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 David Silver, lead programmer at DeepMind give us a lecture.
 
-### 
+### 4
 
 https://medium.com/towards-data-science/the-mathematics-of-machine-learning-894f046c568
 
 A list of basic mathematics required for ML
 
-### 
-
-Others
+### Others
 
 https://karpathy.github.io/neuralnets/
 
@@ -42,7 +40,7 @@ https://swalloow.github.io/pyml-intro1
 
 ## Recommended Website
 
-###
+### 1
 
 https://www.reddit.com/r/MachineLearning/comments/6jgdva/d_machine_learning_wayr_what_are_you_reading_week/
 
